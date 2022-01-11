@@ -35,4 +35,14 @@ Ex: git commit -m "Mensagem relacionada ao commit"
 
 Obs: -m para inserir a mensagem do commit.
 
+### git push
+
+"Empura" o commit para o repositorio no github.
+
+Ex: git push origin master
+
+### git pull
+
+"Puxa" as alterações realizadas no repositorio do github e que não se encontram atualizadas no reposiorio local.
+
 ### 
