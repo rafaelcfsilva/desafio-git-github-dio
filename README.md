@@ -39,7 +39,7 @@ Obs: -m para inserir a mensagem do commit.
 
 "Empura" o commit para o repositorio no github.
 
-Ex: git push origin master
+Ex: git push origin main
 
 ### git pull
 
